@@ -12,9 +12,9 @@ To use this crawler, you need:
   Selenium  
   
 下载之后运行crawler.py：  
-  python crawler.py  
+  **python crawler.py**  
 Dowaload it and run crawler.py:  
-  python crawler.py  
+  **python crawler.py**  
     
 爬虫会需要你输入一些数据，必须要准确输入：  
   系列缩写；  
