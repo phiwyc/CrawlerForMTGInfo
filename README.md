@@ -1,3 +1,5 @@
+# Warning: Magiccards.info已经下线，该爬虫已无法使用。
+
 # A Crawler For MTGInfo
     
 一个从Magiccards.info抓取卡牌信息的爬虫，可在python 2.7.x的环境下运行。数据会被保存为INI文件。只抓取中文卡牌数据。  
